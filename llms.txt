@@ -1,0 +1,5 @@
+# NoorPulse — Islamic Tools
+> Free Islamic tools: prayer times today, Qibla direction finder, Hijri date today, Ramadan calendar, Zakat calculator, Tasbih counter and daily duas. Free, no sign-up.
+
+- Home: https://khuramshahzadmarar10-afk.github.io/islamic-tools/
+- Sitemap: https://khuramshahzadmarar10-afk.github.io/islamic-tools/sitemap.xml
